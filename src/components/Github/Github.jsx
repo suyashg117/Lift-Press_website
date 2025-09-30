@@ -22,7 +22,7 @@ function Github() {
       <p className="text-center m-4 text-2xl">
         Hii my name is suyash. i am a web developer.please follow my github
         account.
-      </p>
+      </p>git 
     </div>
   );
 }
