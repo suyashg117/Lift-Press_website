@@ -18,7 +18,7 @@ export default function About() {
         {/* Muscle Training Section */}
         <div className="grid md:grid-cols-2 gap-10 items-center mb-12">
           <img
-            src="/public/muscle trainning2.jpg"
+            src="/muscle trainning2.jpg"
             alt="Muscle Training"
             className="w-full rounded-lg shadow-lg"
           />
@@ -41,7 +41,7 @@ export default function About() {
         {/* Diet Plan Section */}
         <div className="grid md:grid-cols-2 gap-10 items-center mb-12 md:flex-row-reverse">
           <img
-            src="/public/diet-plan.jpg"
+            src="/diet-plan.jpg"
             alt="Diet Plan"
             className="w-full rounded-lg shadow-lg"
           />
@@ -63,7 +63,7 @@ export default function About() {
         {/* Recovery Section */}
         <div className="grid md:grid-cols-2 gap-10 items-center mb-12">
           <img
-            src="/public/recovery.jpg"
+            src="/recovery.jpg"
             alt="Recovery"
             className="w-full rounded-lg shadow-lg"
           />

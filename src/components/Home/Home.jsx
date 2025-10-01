@@ -11,7 +11,7 @@ export default function Home() {
             plans and balanced diets.
           </p>
           <img
-            src="/public/biceps.png"
+            src="/biceps.png"
             alt="Muscle Training"
             className="mx-auto rounded-2xl shadow-lg max-h-96 object-cover"
           />
@@ -35,7 +35,7 @@ export default function Home() {
           </div>
           <div>
             <img
-              src="/public/muscle-plan.jpg"
+              src="/muscle-plan.jpg"
               alt="Workout Plan"
               className="rounded-2xl shadow-md"
             />
@@ -45,7 +45,7 @@ export default function Home() {
         <section className="grid md:grid-cols-2 gap-8 items-center">
           <div className="order-2 md:order-1">
             <img
-              src="/public/diet-plan.jpg"
+              src="/diet-plan.jpg"
               alt="Healthy Food"
               className="rounded-2xl shadow-md"
             />
@@ -70,7 +70,7 @@ export default function Home() {
           <h2 className="flex text-center gap-3 text-3xl font-bold ml-111">
             Ready to Transform
             <img
-              src="/public/musclebuildingicon.png"
+              src="/musclebuildingicon.png"
               alt="icon"
               className="w-8 h-8 "
             />
