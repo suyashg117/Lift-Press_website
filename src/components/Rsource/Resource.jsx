@@ -12,7 +12,7 @@ export const Resources = () => {
     },
     {
       title: "Post-Workout Recovery Techniques",
-      type: "video",
+      type: "Video",
       link: "https://youtu.be/5z2vWpdMo8k?si=ZlzTPqiqXOU5iOBS",
     },
     {
