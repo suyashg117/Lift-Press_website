@@ -3,12 +3,12 @@ export const Resources = () => {
     {
       title: "Full-Body Workout Guide",
       type: "PDF",
-      link: "/fullbody .pdf",
+      link: "/fullbody.pdf",
     },
     {
       title: "7-Day Meal Plan for Muscle Gain",
       type: "PDF",
-      link: "/7day meal plan.pdf",
+      link: "/7daymealplan.pdf",
     },
     {
       title: "Post-Workout Recovery Techniques",
@@ -18,7 +18,7 @@ export const Resources = () => {
     {
       title: "Healthy Recipes Collection",
       type: "PDF",
-      link: "/healthy food .pdf",
+      link: "/healthyfood.pdf",
     },
     {
       title: "Yoga & Stretching for Recovery",
